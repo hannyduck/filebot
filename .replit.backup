@@ -1,0 +1,2 @@
+language = "bash"
+Run = "npm start"
